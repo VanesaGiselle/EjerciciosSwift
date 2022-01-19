@@ -1,7 +1,7 @@
 # Ejercicios Swift
 
 ## Creado con:
-- Platyground
+- Playground
 
 ## Breve explicación de lo que se va a resolver
 
